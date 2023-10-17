@@ -2,9 +2,9 @@ name: C/C++ CI
 
 on:
   push:
-    branches: [ "a21snsxx-user-12-SP1A.210812.016-A217FXXU8DVF6-release-keys" ]
+    branches: [ "a21snsxx-user-12-SP1A.210812.016-A217FXXS8DWC2-release-keys" ]
   pull_request:
-    branches: [ "a21snsxx-user-12-SP1A.210812.016-A217FXXU8DVF6-release-keys" ]
+    branches: [ "a21snsxx-user-12-SP1A.210812.016-A217FXXS8DWC2-release-keys" ]
 
 jobs:
   build:
